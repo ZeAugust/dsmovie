@@ -33,12 +33,12 @@ public class User {
 		this.id = id;
 	}
 
-	public String getEmailString() {
+	public String getEmail() {
 		return email;
 	}
 
-	public void setEmailString(String emailString) {
-		this.email = emailString;
+	public void setEmail(String email) {
+		this.email = email;
 	}
 	
 	
